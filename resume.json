@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "Anwar Abdul-Azim",
+    "label": "Apprentice Programmer",
+    "picture": "http://i.imgur.com/WWviXaN.jpg",
+    "email": "anwar.abdulazim@gmail.com",
+    "phone": "(415) 562-6927",
+    "website": "https://yachtsmandev.wordpress.com",
+    "summary": "Before graduating in 2015 from the California Maritime Academy and prior to moving to the West Coast; I was  an event manager in the lifestyle & action-sports indrustry.  I managed accounts and products for  Filter, The FADER, Toyota, and Boost Mobile. I enjoy planning and executing projects that involve numerous participants and schedules.  Correspondingly, I am very interested in information technology, data security, database analysis and the science of efficiency.   Likewise Anwar recognizes the need to be a global citizen and thus is constantly improving his emergent fluency in Spanish, Portuguese, Arabic, French, and Japanese. ",
+    "location": {
+      "address": "609B York Street",
+      "postalCode": "CA 94590",
+      "city": "Vallejo",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "yachtsmandev",
+        "url": "https://twitter.com/yachtsmandev"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "thebutchcaucus",
+        "url": "https://soundcloud.com/thebutchcaucus"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "anwarabdulazim",
+        "url": "https://www.linkedin.com/in/anwarabdulazim"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cargill",
+      "position": "Supply Chain Intern",
+      "website": "http://cargill.com",
+      "startDate": "2014-05-01",
+      "endDate": "2014-08-17",
+      "summary": "Cargill, Inc., is an American privately held, multinational corporation based in Minnetonka, Minnesota, a Minneapolis suburb. Founded in 1865.  Cargill provides food, agriculture, financial and industrial products and services to the world.",
+      "highlights": [
+        "Coordinated strategic inventory consolidations & logistical transfer in 3 states in 4 weeks.",
+        "Routine inventory reconciliation, via SAP, via warehouse and database software.",
+        "Analyzed and recorded the efficiency rates of the LTL providers."
+      ]
+    },
+    {
+      "company": "Parker Hannifin",
+      "position": "Supply Chain Intern",
+      "website": "http://www.parker.com",
+      "startDate": "2014-01-01",
+      "endDate": "2014-05-01",
+      "summary": "Parker Hannifin is an American corporation specializing in motion and control technologies.",
+      "highlights": [
+        "Implemented barcoding system that  increased speed of inputs by 52%.",
+        "Organized and determined best carrier method for frequent lanes of transportation.",
+        "Introduced and trained suppliers on enterprise inventory management software."
+      ]
+    },
+    {
+      "company": "NASA",
+      "position": "Commercial Space Logistics Intern",
+      "website": "http://accedp.usra.edu/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "The ACCEDP initiative supports the NASA Education Framework by addressing the shortage of college students engaged in and pursuing careers in Science, Technology, Engineering, Mathematics (STEM) and NASA Mission Support (STEM-M). To this end ACCEDP has partnerships with SF Bay Area community colleges to recruit talented students to participate in internships with NASA researchers and mission support professionals.",
+      "highlights": [
+        "Coded 2000+ lines for the Technology Transfer patent database.",
+        "Managed royalties and licensing fee schedules for 1000+ patents.",
+        "Gained in depth knowledge about patent law, licensing, software, and space act agreements."
+      ]
+    },
+    {
+      "company": "Filter Music+Media",
+      "position": "Tour Manager",
+      "website": "http://filtercreativegroup.com/",
+      "startDate": "2008-02-01",
+      "endDate": "2009-01-01",
+      "summary": "Established in 1999 and based in Los Angeles, Filter specializes in customized marketing campaigns were designed and implemented, organic grassroots initiatives reached previously untapped niche markets.",
+      "highlights": [
+        "Supervised all pre and post production activities on site; with solution based ethics.",
+        "Administered payroll for staff of 30+, venues, and talent nationally.",
+        "Insured, maintained and repaired a fleet of 15 performance modified automobiles. "
+      ]
+    },
+    {
+      "company": "Cornerstone/The FADER",
+      "position": "Various",
+      "website": "http://www.cornerstoneagency.com/",
+      "startDate": "2005-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Cornerstone is a New York-based creative lifestyle marketing and public relations agency with offices in New York City, Los Angeles, and London.",
+      "highlights": [
+        "Action sports programs manager for Pacific Northwest territory.",
+        "Scheduled and actively managed onsite technical production of 120 events annually. ",
+        "Recruiter; solicited, trained, and managed street teams on a per project basis."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Berkeley City College",
+      "position": "Computer Literacy Tutor",
+      "website": "http://www.berkeleycitycollege.edu/wp/lrc/computer-lab/",
+      "startDate": "2010-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Assisted continuing education students with basic skills development.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "California Maritime Academy",
+      "area": "Logistics & International Business",
+      "studyType": "Bachelor",
+      "startDate": "2012-08-24",
+      "endDate": "2016-05-26",
+      "gpa": "3.7",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Apprentice",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Apprentice",
+      "keywords": [
+        "JQuery",
+        "SQL",
+        "MongoDB"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Emergent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. Kortney Ryan Ziegler",
+      "reference": "It is my pleasure to recommend Anwar, his performance working as a consultant for Transh4ck proved that he will be a valuable addition to any company."
+    }
+  ]
+}
